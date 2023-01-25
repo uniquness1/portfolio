@@ -1,7 +1,7 @@
 <template>
-  <header class="flex items-center justify-between h-10 px-3 md:px-8">
+  <header class="flex items-center justify-between py-5 px-3 md:px-8">
     <div class="logo">
-      <h1 class="text-xl dark:text-white">Dev.</h1>
+     <a class="" href=""> <h1 class="text-md md:text-xl font-semibold italic font-[cinzel] dark:text-white">Don.<span class="text-[#dc143c]">Uniqueness</span></h1></a>
     </div>
     <div class="flex items-center xs:gap-2 md:gap-3">
       <nav class="nav-menu hidden md:block">
