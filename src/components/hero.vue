@@ -5,7 +5,7 @@
     <h1
       class="heading capitalize text-2xl mb-5 md:text-6xl font-[cinzel] text-center font-semibold dark:text-white"
     >
-      Hi, i am <span class="text-[#dc143c]">Ajijola Ayodele</span>
+      Hi, i'm <span class="text-[#dc143c]">Ajijola Ayodele</span>
     </h1>
     <p
       class="capitalize my-0 mx-2 mb-5 md:mx-30 text-xs md:text-xl font-[cinzel] font-normal text-center dark:text-white"
