@@ -1,6 +1,6 @@
 <template>
   <div
-    class="container flex flex-col items-center justify-center mx-auto py-36 md:px-8"
+    class="container flex flex-col items-center justify-center mx-auto py-52 md:px-8"
   >
     <h1
       class="heading capitalize text-2xl mb-5 md:text-6xl font-[cinzel] text-center font-semibold dark:text-white"
@@ -14,10 +14,10 @@
       and user friendly websites that help businesses and individuals achieve
       their set goals online
     </p>
-    <div class="flex items-center gap-2 max-w-fit text-center mx-auto">
+    <div class="flex  md:flex-col md:absolute md:bottom-4 md:right-2 items-center gap-2 max-w-fit text-center mx-auto">
       <a
         href="https://twitter.com/ade236"
-        class="icons dark:text-white hover:bg-[#dc143c] hover:animate-spin hover:text-white dark:hover:text-black border border-black border-solid border-radius rounded-full p-2 dark:border-white"
+        class="icons dark:text-white hover:bg-[#dc143c] hover:animate-spin hover:text-white dark:hover:text-black border border-black border-solid border-radius rounded-full p-2 m-2 dark:border-white"
         ><svg
           stroke="currentColor"
           fill="none"
@@ -35,7 +35,7 @@
       ></a>
       <a
         href="https://github.com/uniquness1"
-        class="icons dark:text-white border hover:bg-[#dc143c] hover:animate-spin hover:text-white dark:hover:text-black border-black border-solid border-radius rounded-full p-2 dark:border-white"
+        class="icons dark:text-white border hover:bg-[#dc143c] hover:animate-spin hover:text-white dark:hover:text-black border-black border-solid border-radius rounded-full p-2 m-2 dark:border-white"
         ><svg
           stroke="currentColor"
           fill="none"
@@ -53,7 +53,7 @@
       ></a>
       <a
         href="https://www.linkedin.com/in/adeola-ajijola-4b9b87135/"
-        class="icons dark:text-white border border-black border-solid border-radius rounded-full p-2 hover:bg-[#dc143c] hover:animate-spin hover:text-white dark:hover:text-black dark:border-white"
+        class="icons dark:text-white border border-black border-solid border-radius rounded-full p-2 m-2 hover:bg-[#dc143c] hover:animate-spin hover:text-white dark:hover:text-black dark:border-white"
         ><svg
           stroke="currentColor"
           fill="none"
